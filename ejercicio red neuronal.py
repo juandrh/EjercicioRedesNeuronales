@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 22 16:04:09 2022
 
-@author: juan_
+
 """
 
 # Perceptrón multicapa
