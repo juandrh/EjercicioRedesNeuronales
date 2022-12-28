@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 22 16:04:09 2022
-
-
 """
 
 # Perceptrón multicapa
