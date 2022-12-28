@@ -2,6 +2,8 @@
 
 Realizado para la asignatura Inteligencia Artificial de UDIMA
 
+Ver explicación: https://youtu.be/eanPoueGDi8
+
 
 Fuentes: 
 - García S., Alberto: Inteligencia Artificial. Fundamentos, práctica y aplicaciones. Editorial RC Libros. 2ª Ed. 2016
